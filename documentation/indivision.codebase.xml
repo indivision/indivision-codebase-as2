@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<as2apiproject>
+	<setting key="ClassPaths">D:\WORKSPACE\AS\codebase\classes\net</setting>
+	<setting key="PageTitle">INDIVISION CODEBASE</setting>
+	<setting key="OutputDir">D:\WORKSPACE\DOC</setting>
+	<setting key="Package">indivision.*</setting>
+</as2apiproject>
