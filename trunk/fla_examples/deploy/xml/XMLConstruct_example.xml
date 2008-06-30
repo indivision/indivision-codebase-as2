@@ -1,0 +1,22 @@
+<portfolio>
+   <web>
+      <job month="05" year="2004">
+         <href>http://www.website.com</href>
+         <desc>An example node '_value' here.</desc>
+      </job>
+      <job month="08" year="2003">
+         <href>http://www.example.com</href>
+         <desc>Another example xml entry.</desc>
+      </job>
+   </web>
+   <print>
+      <job id="10" month="10" year="2005">
+         <desc>Example print job description.</desc>
+      </job>
+   </print>
+   <print>
+      <job id="10" month="10" year="2005">
+         <desc>Another example description.</desc>
+      </job>
+   </print>
+</portfolio>
